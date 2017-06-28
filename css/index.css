@@ -1,0 +1,56 @@
+body{
+	background:#000;
+	background-image:url("http://www.personalwebhhf.cn/pic/bg.jpg");
+}
+
+#Content{
+	height:600px;
+	margin-top:70px;
+	margin-left:260px;
+	background:##9FB6CD; 
+}
+#Content-Left{
+	height:100%;
+	width:66px;
+	margin:3px;
+	float:left;
+	font-size:12px;
+	background:#838B8B;
+	overflow: scroll;
+}
+#Content-Main{
+	height:100%;
+	width:720px;
+	margin:3px;
+	float:left;
+	background:#E3E3E3;
+	overflow-x: scroll;
+}
+#out{
+	margin-top:10px;
+	
+}
+#room{
+   	width:700px;
+	height:370px;
+	margin:10px;
+	background:#fff;
+	overflow: scroll;
+}
+#message{
+	width:700px;
+	height:108px;
+	margin:10px;
+	background:#fff;
+}
+#txtHint{
+	overflow: scroll;
+}	
+.Clear{
+	clear:both;
+}
+.welcome{
+	text-align:center;
+	font-size:20px;
+	color:blue;
+}
